@@ -1,7 +1,6 @@
 li {
     padding: 5px;
     margin: 5px;
-    background: #faebd7;
   }
   
   .label {
@@ -16,5 +15,14 @@ li {
   
   .form-group {
     margin-bottom: 5px;
+  }
+  body {
+    background-image: url(https://i7.pngguru.com/preview/763/205/89/fast-food-hamburger-cheeseburger-junk-food-computer-icons-fast-food.jpg);
+  }
+  .div_background {
+    background-color: cornsilk;
+    border-radius: 10px;
+    margin: 10px;
+    border: 2px solid red;
   }
   
